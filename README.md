@@ -5,17 +5,22 @@
 
 
 沼津工業高等専門学校 制御情報工学科
+
 National Institute of Technology, Numazu College
 Dept. of Control and Computer Engineering
 
 ## Contact
 E-mail: s25121@numazu.kosen-ac.jp
+
 TEL:    080-3532-8474
 
 ## Social Link
 X(Twitter):  @daiki_kosen25s
+
 Instagram:   @daiki_kosen25s
+
 GitHub:      @daichan8pc
+
 PortFolio:   [https://d-engineers.com/](https://d-engineers.com/)
 
 
