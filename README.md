@@ -10,12 +10,12 @@ National Institute of Technology, Numazu College
 
 Dept. of Control and Computer Engineering
 
-## 実績
-- DCON2026 Team BrainBridge
-- SW Atami 3th Team Taka
-- FuJI 2 Team IZUscape
-- SOHGIKEN 61 Development Leader
-
+## Achievements
+- DCON2026:Team BrainBridge
+- SW-Atami-3th:Team Taka
+- [FuJI2](https://fuji-innovator.shizuoka.jp/):Team IZUscape
+- SOHGIKEN 61:Development Leader
+- [AXIS:Active X-platform Integrated System](https://github.com/daichan8pc/AXIS)
 
 
 ## Contact
