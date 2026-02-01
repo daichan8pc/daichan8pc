@@ -12,6 +12,7 @@ Dept. of Control and Computer Engineering
 
 ## Achievements
 - DCON2026:Team BrainBridge
+- SW-Iwata-5th:Team Horinishi
 - SW-Atami-3th:Team Taka
 - [FuJI2](https://fuji-innovator.shizuoka.jp/):Team IZUscape
 - SOHGIKEN 61:Development Leader
