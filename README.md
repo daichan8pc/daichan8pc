@@ -1,13 +1,22 @@
 ## 鈴木大騎 (Daiki Suzuki)
 
 \- ロボット&AIで起業を目指す ‐
-\- Aspiring to launch a startup in Robotics & AI -
 
+\- Aspiring to launch a startup in Robotics & AI -
 
 沼津工業高等専門学校 制御情報工学科
 
 National Institute of Technology, Numazu College
+
 Dept. of Control and Computer Engineering
+
+## 実績
+- DCON2026 Team BrainBridge
+- SW Atami 3th Team Taka
+- FuJI 2 Team IZUscape
+- SOHGIKEN 61 Development Leader
+
+
 
 ## Contact
 E-mail: s25121@numazu.kosen-ac.jp
