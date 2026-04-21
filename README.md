@@ -11,28 +11,29 @@ National Institute of Technology, Numazu College
 Dept. of Control and Computer Engineering
 
 ## Achievements
+
 - DCON2026:Team BrainBridge
 - SW-Iwata-5th:Team Horinishi
 - SW-Atami-3th:Team Taka
 - [FuJI2](https://fuji-innovator.shizuoka.jp/):Team IZUscape
-- SOHGIKEN 61:Development Leader
+- [SOHGIKEN 61](https://sohgiken.net/):Development Leader
 - [AXIS:Active X-platform Integrated System](https://github.com/daichan8pc/AXIS)
 
-
 ## Contact
+
 E-mail: s25121@numazu.kosen-ac.jp
 
-TEL:    080-3532-8474
+TEL: 080-3532-8474
 
 ## Social Link
-X(Twitter):  @daiki_kosen25s
 
-Instagram:   @daiki_kosen25s
+X(Twitter): @daiki_kosen25s
 
-GitHub:      @daichan8pc
+Instagram: @daiki_kosen25s
 
-PortFolio:   [https://d-engineers.com/](https://d-engineers.com/)
+GitHub: @daichan8pc
 
+PortFolio: [https://d-engineers.com/](https://d-engineers.com/)
 
 <!--
 **daichan8pc/daichan8pc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
