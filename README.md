@@ -23,8 +23,6 @@ Dept. of Control and Computer Engineering
 
 E-mail: s25121@numazu.kosen-ac.jp
 
-TEL: 080-3532-8474
-
 ## Social Link
 
 X(Twitter): @daiki_kosen25s
