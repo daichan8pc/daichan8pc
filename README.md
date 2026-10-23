@@ -1,9 +1,5 @@
 ## 鈴木大騎 (Daiki Suzuki)
 
-\- ロボット&AIで起業を目指す ‐
-
-\- Aspiring to launch a startup in Robotics & AI -
-
 沼津工業高等専門学校 制御情報工学科
 
 National Institute of Technology, Numazu College
